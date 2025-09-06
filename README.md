@@ -5,7 +5,6 @@ This lab simulates a real-world sysadmin workflow using Microsoft Defender for C
 - Deploy a Windows Server VM with secure access
 - Enable Defender for Cloud (CSPM)
 - Review and remediate security recommendations
-- Export Secure Score and compliance posture
 - Document results
 
 ## Components

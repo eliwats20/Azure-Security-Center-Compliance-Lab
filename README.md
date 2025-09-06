@@ -17,6 +17,3 @@ This lab simulates a real-world sysadmin workflow using Microsoft Defender for C
 - **Defender for Cloud**: CSPM enabled (free tier)
 
 ## Screenshots
-| Before Remediation | After Remediation |
-|--------------------|-------------------|
-| ![Secure Score Before](images/secure-score-before.png) | ![Secure Score After](images/secure-score-after.png) |

@@ -23,9 +23,9 @@ This lab simulates a real-world sysadmin workflow using Microsoft Defender for C
 ![Secure Score](<images/Security Score.png>)
 
 ### 🛠️ Guest Configuration Extension
-![Guest Config](<images/Guest Configuration.png>)
+![Guest Config](<images/Guest Configurations.png>)
 
 ### 🛡️ Microsoft Defender Recommendations
-![Defender Recommendations 1](<images/Security Recommandations 1.png>)
-![Defender Recommendations 1](<images/Security Recommandations 2.png>)
+![Defender Recommendations 1](<images/Security Recommendations 1.png>)
+![Defender Recommendations 2](<images/Security Recommendations 2.png>)
 

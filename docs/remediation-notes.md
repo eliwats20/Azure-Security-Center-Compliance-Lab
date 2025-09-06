@@ -8,7 +8,7 @@
 | Defender for Servers      | **Not enabled**                                             | ❌ Skipped  | Paid feature; excluded to maintain free-tier compliance              |
 | Defender CSPM             | **Not enabled**                                             | ❌ Skipped  | Avoided $5/resource/month charge                                     |
 | Secure Score              | Initial score 0%; posture checks pending                    | ⏳ Pending | Most items marked “Not evaluated”; expected to update within 24 hrs  |
-| Compliance Benchmark      | Microsoft Cloud Security Benchmark (MCSB) active            | ✅ Done     | 57 of 61 controls passed                                             |
+| Compliance Benchmark      | Microsoft Cloud Security Benchmark (MCSB) active            | ✅ Done     | 57 of 63 controls passed                                             |
 | RDP Access Issue          | Unable to connect via public IP; worked over VNet only      | ⚠️ Observed | Likely caused by NSG restrictions or missing public IP configuration |
 
 ## 🔍 Additional Notes

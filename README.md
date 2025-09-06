@@ -29,3 +29,13 @@ This lab simulates a real-world sysadmin workflow using Microsoft Defender for C
 ![Defender Recommendations 1](<images/Security Recommendations 1.png>)
 ![Defender Recommendations 2](<images/Security Recommendations 2.png>)
 
+## 📊 Results
+
+- No critical or high-risk recommendations
+- Secure Score initially 0% due to pending evaluations
+- 22 of 24 posture items marked “Not evaluated” at time of scan
+- VM confirmed to be secure at baseline with free-tier tools
+
+> ⚠️ Note: The Secure Score shows 0% because most posture checks were still pending evaluation at the time of capture. This is expected behavior shortly after enabling Guest Configuration and diagnostic settings. Paid Defender plans were intentionally skipped to maintain free-tier compliance, which also limits posture visibility.
+
+

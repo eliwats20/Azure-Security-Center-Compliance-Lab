@@ -7,7 +7,7 @@
 | NSG Hardening             | Restricted inbound RDP/SSH to specific IP                   | ✅ Done     | Removed `0.0.0.0/0` exposure                                         |
 | Defender for Servers      | **Not enabled**                                             | ❌ Skipped  | Paid feature; excluded to maintain free-tier compliance              |
 | Defender CSPM             | **Not enabled**                                             | ❌ Skipped  | Avoided $5/resource/month charge                                     |
-| Secure Score              | Initial score 0%; posture checks pending                    | ⏳ Pending | Most items marked “Not evaluated”; expected to update within 24 hrs  |
+| Secure Score              | 81%                                                         | ✅ Done | Most items marked “Not evaluated”; expected to update within 24 hrs  |
 | Compliance Benchmark      | Microsoft Cloud Security Benchmark (MCSB) active            | ✅ Done     | 57 of 63 controls passed                                             |
 | RDP Access Issue          | Unable to connect via public IP; worked over VNet only      | ⚠️ Observed | Likely caused by NSG restrictions or missing public IP configuration |
 
@@ -21,7 +21,7 @@
   - VM missing a public IP assignment
   - OS-level firewall settings
 - **Defender for Servers**, **Defender CSPM**, and **Defender for Storage** were intentionally left disabled to avoid triggering paid services.
-- **Secure Score** was observed at 0% due to pending evaluations. No critical or high-risk recommendations were present at the time of initial scan.
+- **Secure Score** was observed at 81%. No critical or high-risk recommendations were present at the time of initial scan.
 - **Compliance benchmark** (MCSB) was active and showed 57 out of 61 controls passed, indicating strong baseline posture.
 
 ---

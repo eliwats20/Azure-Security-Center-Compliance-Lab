@@ -20,7 +20,7 @@ This lab simulates a real-world sysadmin workflow using Microsoft Defender for C
 ![NSG Rules](images/NSG_RDPRule.png)
 
 ### 🧠 Secure Score Evaluation
-![Secure Score](<images/Security Score.png>)
+![Secure Score](<images/Secure Score.png>)
 
 ### 🛠️ Guest Configuration Extension
 ![Guest Config](<images/Guest Configurations.png>)
